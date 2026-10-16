@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
 
@@ -16,10 +16,14 @@
 <p><b style="padding-top: 50px; padding-left:50px;">
     <i>А еще я люблю картошку</i></b></p>
 
-<img src="gifka.gif"><br>
-<img src="unnamed.jpg" height=200><br>
+<center><img src="gifka.gif"></center><br>
+<center><img src="unnamed.jpg" height=200></center><br>
 
-<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Orange_tabby_cat_sitting_on_fallen_leaves-Hisashi-01A.jpg/250px-Orange_tabby_cat_sitting_on_fallen_leaves-Hisashi-01A.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"><br>
+<center><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Orange_tabby_cat_sitting_on_fallen_leaves-Hisashi-01A.jpg/250px-Orange_tabby_cat_sitting_on_fallen_leaves-Hisashi-01A.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"></center><br>
+
+<center><a href="https://mai.ru/" target="_blank">МАИ сайт</a><br><center><br>
+
+<center><iframe src="https://ru.wikipedia.org/" width="284" height="192" frameborder="0" scrolling="no"></iframe></center>
 
 </body>
 
